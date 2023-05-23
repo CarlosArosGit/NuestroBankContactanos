@@ -1,0 +1,26 @@
+.cardWhite{
+    background-color: rgb(243, 237, 237);
+    height: 480px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.formContacto{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.formContactoText{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#btnEnviar{
+    width: 60% !important;
+}
+@media only screen and (max-width: 800px) {
+    .cardWhite{
+        height: 800px;
+        width: 100%;
+    }
+  }
